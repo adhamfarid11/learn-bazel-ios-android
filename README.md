@@ -1,3 +1,5 @@
+<p><em>Prerequisite:</em> install Bazel first</p>
+
 # Building Bullseye iOS App
 
 `bazel build //Bullseye-iOS:yourfirstapp`
