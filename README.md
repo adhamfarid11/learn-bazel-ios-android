@@ -1,4 +1,4 @@
-<p><em>Prerequisite:</em> install Bazel first</p>
+<em>Prerequisite:> install Bazel first</em>
 
 # Building Bullseye iOS App
 
