@@ -1,3 +1,7 @@
-# running the bazel
+# Building Bullseye iOS App
 
-`bazel build --enable_workspace //Bullseye-iOS:yourfirstapp`
+`bazel build //Bullseye-iOS:yourfirstapp`
+
+# Running Bullseye iOS App
+
+`bazel run //Bullseye-iOS:yourfirstapp`
